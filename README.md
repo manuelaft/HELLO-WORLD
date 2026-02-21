@@ -19,14 +19,6 @@ A interface começa com uma tela inicial em formato de “popup” e, ao clicar,
 - **Tkinter**
 - **Pillow (PIL)** para abrir/redimensionar imagens
 
-## Estrutura do projeto
-
-- `main.py` — ponto de entrada da aplicação
-- `popup.py` — componentes da tela inicial (label + texto piscando)
-- `janela.py` — customização da janela, fundo, animações e render de imagens
-- `action.py` — eventos (bind) e fluxo de troca de tela
-- `assets/` — imagens utilizadas na interface
-
 ## Como executar
 
 #### Pré-requisitos
